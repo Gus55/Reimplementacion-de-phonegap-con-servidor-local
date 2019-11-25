@@ -1,0 +1,16 @@
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+
+
+
+
